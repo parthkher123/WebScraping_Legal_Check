@@ -65,7 +65,7 @@ python legal_test.py
 By default, it checks:
 
 p
-check_website_legality("https://www.drcsystems.com")
+check_website_legality("https://www.yourwebsite.com")
 You can replace that URL in legal_test.py to check any site.
 
 🧠 How It Works
