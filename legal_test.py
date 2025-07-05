@@ -170,5 +170,6 @@ def check_website_legality(domain):
     print(result)
     print("=" * 40 + "\n")
 
+#use your own domain or url
 if __name__ == "__main__":
-    check_website_legality("https://www.drcsystems.com")
+    check_website_legality("https://www.yourdomain.com")
