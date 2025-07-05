@@ -58,13 +58,11 @@ pip install -r requirements.txt
 🚀 Usage
 Run the script to analyze a website:
 
-bash
-Copy
-Edit
+
 python legal_test.py
 By default, it checks:
 
-p
+
 check_website_legality("https://www.yourwebsite.com")
 You can replace that URL in legal_test.py to check any site.
 
