@@ -18,6 +18,9 @@ It analyzes `robots.txt`, Terms of Service, Privacy Policy, anti-bot headers, lo
 
 ---
 
+⚠️ This tool is an AI-powered early warning system — it helps you assess risk, but does not replace professional legal advice. Use it to stay informed and responsible.
+
+
 ## 📦 Requirements
 
 - Python 3.8 or higher
